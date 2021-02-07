@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you must run:
 
-### 'npm install'
+### `npm install`
 
 After this you can run to start the server:
 
