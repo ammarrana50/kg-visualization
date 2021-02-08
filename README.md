@@ -8,7 +8,7 @@ In the project directory, you must run:
 
 ### `npm install`
 
-After this you can run to start the server:
+After this you can run the following to start the server:
 
 ### `npm start`
 
